@@ -1,0 +1,26 @@
+html{
+    font-family: Calibri;
+}
+.default{
+    width: 80px;
+    height: 35px;
+    color: black;
+    background-color:#e0e0e0;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 2px 3px 0px #33333333;
+
+}
+.default-hover{
+    background-color: #dd5c5c;
+}
+
+.buttonDefault{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.btn{
+    margin: 50px;
+    padding: 50px;
+}
